@@ -1,1 +1,4 @@
-fastapi, fastmcp, and uvicorn.
+
+fastapi
+fastmcp
+uvicorn[standard]
